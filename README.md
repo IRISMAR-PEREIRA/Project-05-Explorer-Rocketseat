@@ -47,7 +47,7 @@ O Projeto-04 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse 
 
 Esse projeto está sob a licença MIT.
 <br/>
-Esse projeto pode ser visualizado pelo Link: https://irismar-pereira.github.io/Project-04-Explorer-Rocketseat/
+Esse projeto pode ser visualizado pelo Link: https://irismar-pereira.github.io/Project-05-Explorer-Rocketseat/
 
 ---
 
