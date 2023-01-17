@@ -1,4 +1,4 @@
-<h1 align="center"> Project-04-Explorer-Rocketseat</h1>
+<h1 align="center"> Project-05-Explorer-Rocketseat</h1>
 
 <p align="center">
 Evento promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -31,16 +31,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto-04 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
+O Projeto-05 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
 
-- responsividade, fazendo com que o site se adapte em diversas resoluções de tela;
-- conceito de mobile-first;
-- unidades de medidas flexíveis (% e rem), com essas medidas conseguimos construir aplicações totalmente responsivas;
-- ajuste e alinhamento de texto de acordo com o layout do Figma;
-- ajustes de adaptação do site para dispositivos móveis;
-- propriedade "max-width" (estabelecendo uma largura máxima para os elementos);
-- versão "Desktop", aplicando a @media respectiva ao tamanho do dispositivo;
-- importância de testar o projeto em vários dispositivos (celulares, emuladores, dentre outros).
+- display: grid, transições, animações e responsividade;
+- variáveis e cores no CSS. Nas cores, utilizamos o valor HSL para representá-la, deixando o projeto mais flexível para futuras alterações;
+- estilização do 'header' no projeto;
+- importância de resetar o CSS da página para evitar conflitos de medidas;
+- ajuste da largura máxima da página passando um "max-width" dentro de uma nova 'div';
+- ajuste do tamanho das imagens definindo a sua largura como 100% e altura automática;
+- nova propriedade no CSS para ajuste de imagem: "object-fit" e utilização do "position";
+- transformações (transform) e transições (transitions);
+- animações no CSS com propriedade (animation) , foi utilizado @keyframes para definir as regras das animações;
+- CSS Grid Layout, uma nova maneira de posicionar os elementos do projeto (o grid pode ser usado juntamente com o Flex);
+- propriedade "filter" do CSS. Essa propriedade nos dá a possibilidade de controlar o brilho, a saturação, a opacidade, a matiz, dentre outras;
+- propriedade (clamp) do CSS. Uma função que permite ajustar textos de forma responsiva.
 
   
 ## :memo: Licença
