@@ -43,7 +43,7 @@ O Projeto-05 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse 
 - transformações (transform) e transições (transitions);
 - animações no CSS com propriedade (animation) , foi utilizado @keyframes para definir as regras das animações;
 - CSS Grid Layout, uma nova maneira de posicionar os elementos do projeto (o grid pode ser usado juntamente com o Flex);
-- propriedade "filter" do CSS. Essa propriedade nos dá a possibilidade de controlar o brilho, a saturação, a opacidade, a matiz, dentre outras;
+- propriedade "filter" do CSS. Essa propriedade nos dá a possibilidade de controlar o brilho, a saturação, a opacidade, a matiz, dentre outras,
 - propriedade (clamp) do CSS. Uma função que permite ajustar textos de forma responsiva.
 
   
